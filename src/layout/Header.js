@@ -3,7 +3,7 @@ import React from "react";
 function Header() {
   return (
     <header style={HeaderStyle}>
-      <h1 style={{ margin: "0" }}>TodoList</h1>
+      <h1 style={{ margin: "0" }}>Todofy</h1>
     </header>
   );
 }
