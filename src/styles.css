@@ -1,0 +1,60 @@
+body {
+  background-color: #f2cf43;
+  background-image: linear-gradient(315deg, #f2cf43 0%, #19a186 74%);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-family: "Montserrat Alternates";
+  background-color: #f39f86;
+  background-image: linear-gradient(315deg, #f39f86 0%, #f9d976 74%);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.form-container {
+  padding: 10px;
+}
+
+.input-field{
+    margin: auto 5px;
+}
+
+.input-btn{
+  background-color: #20BF55;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  border: none;
+  padding: 4px 10px;
+}
+.input-btn:hover{
+  background-color: rgb(31, 231, 98);
+}
+
+.todo-list {
+  border-bottom: 1px solid rgb(104, 99, 99);
+}
+.todo-list:last-child {
+  border: none;
+}
+
+.delete-btn {
+  float: right;
+  padding: 4px 9px;
+  background: #fc575e;
+  border: none;
+  font-weight: 600;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s ease all;
+}
+
+.delete-btn:hover {
+  background: rgb(250, 27, 39);
+}
