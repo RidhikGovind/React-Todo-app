@@ -29,6 +29,7 @@ class AddTodo extends Component {
           
           value={this.state.title} //done
           onChange={this.onChange}
+          required
         />
 
         <input 
