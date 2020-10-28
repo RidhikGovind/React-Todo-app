@@ -1,3 +1,7 @@
+
+![Todofy](https://socialify.git.ci/RidhikGovind/Todofy/image?description=1&font=Raleway&language=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
+
+
 # Todofy - The grooviest of a kind Todo App { :page_with_curl: }
 
 
